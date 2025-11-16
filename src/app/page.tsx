@@ -1,12 +1,6 @@
+import { redirect } from "next/navigation";
 
-import styles from "./page.module.css";
-
-export default function Home() {
-  return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to &quot;From behind the line&quot;</h1>
-      </main>
-    </div>
-  );
+export default function Page() {
+  // Редірект на англійську як дефолт
+  redirect("/en");
 }

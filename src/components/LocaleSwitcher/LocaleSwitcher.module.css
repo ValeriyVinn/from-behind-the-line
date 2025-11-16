@@ -1,0 +1,16 @@
+.switcher {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.switcher a {
+  text-decoration: none;
+  color: blue;
+  font-weight: normal;
+}
+
+.switcher a.active {
+  font-weight: bold;
+  color: darkblue;
+}
