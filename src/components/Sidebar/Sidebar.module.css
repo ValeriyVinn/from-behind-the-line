@@ -12,9 +12,9 @@
   transition: background-color 0.2s, color 0.2s;
 }
 
-.link:hover {
-  background-color: #e5e7eb; /* світліший сірий */
-}
+/* .link:hover {
+  background-color: #e5e7eb;
+} */
 
 .active {
   background-color: #3b82f6; /* синій */

@@ -8,8 +8,9 @@ export default function Sidebar({ locale }: { locale: string }) {
   const pathname = usePathname();
 
   const links = [
-    { href: `/${locale}/first`, label: locale === "en" ? "First Page" : "Перша Сторінка" },
-    { href: `/${locale}/second`, label: locale === "en" ? "Second Page" : "Друга Сторінка" },
+    { href: `/${locale}/psy-syntax`, label: locale === "en" ? "PsySyntax" : "PsySyntax" },
+    { href: `/${locale}/after-sixty`, label: locale === "en" ? "After sixty" : "Після шістидесяти" },
+   
   ];
 
   return (
