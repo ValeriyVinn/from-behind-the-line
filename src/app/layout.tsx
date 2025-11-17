@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "From behind the line",
   description: "Multilingual site"
