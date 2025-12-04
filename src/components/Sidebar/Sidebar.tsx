@@ -10,7 +10,8 @@ export default function Sidebar({ locale }: { locale: string }) {
   const links = [
     { href: `/${locale}/psy-syntax`, label: locale === "en" ? "PsySyntax" : "PsySyntax" },
     { href: `/${locale}/after-sixty`, label: locale === "en" ? "After sixty" : "Після шістидесяти" },
-   
+   { href: `/${locale}/talent-transfer`, label: locale === "en" ? "Talent transfer" : "Трансфер таланту" },
+   { href: `/${locale}/three-houses`, label: locale === "en" ? "Three Houses" : "Три дома" },
   ];
 
   return (

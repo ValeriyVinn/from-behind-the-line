@@ -42,24 +42,24 @@ a {
 }
 
 html {
-  font-size: 14px; /* телефон */
+  font-size: 16px; /* телефон */
 }
 
 @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   } /* планшет */
 }
 
 @media (min-width: 1024px) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   } /* ноутбук */
 }
 
 @media (min-width: 1440px) {
   html {
-    font-size: 20px;
+    font-size: 22px;
   } /* дисплей */
 }
 
