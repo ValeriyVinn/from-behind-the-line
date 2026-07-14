@@ -1,36 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🇬🇧 English
 
-## Getting Started
+# From Behind the Line
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This repository is my digital notebook.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Whenever an idea seems interesting, useful, or simply worth remembering, I write it down here.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Some ideas are about technology.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Some are about psychology.
 
-## Learn More
+Some are about education, communities, or the way people grow.
 
-To learn more about Next.js, take a look at the following resources:
+Most of them are unfinished.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Many of them may never become real projects.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+I believe ideas become better when they are revisited, questioned, challenged, and sometimes completely rewritten.
 
-## Deploy on Vercel
+This website is also part of my journey as a web developer.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Building the platform is just as important to me as documenting the ideas themselves.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## What you'll find
+
+- conceptual notes
+- unfinished ideas
+- questions
+- thought experiments
+- possible software projects
+- observations
+
+## Example Topics
+
+- PsySyntax
+- Talent Transfer
+- After sixty
+- Memory Lab “Three Houses”
+
+## If any of these ideas resonate with you or inspire a different perspective, feel free to open an issue or start a discussion.
+
+----------------------------------------------------
+🇺🇦 Українська
+
+## Огляд
+
+Це  мій цифровий блокнот.
+
+Щоразу, коли якась ідея здається цікавою, корисною або просто варта того, щоб її запам'ятати, я записую її тут.
+
+Деякі ідеї стосуються технологій.
+
+Деякі – психології.
+
+Деякі – освіти, громад або способу розвитку людей.
+
+Більшість із них незавершені.
+
+Багато з них можуть ніколи не стати реальними проектами.
+
+Я вважаю, що ідеї стають кращими, коли їх переглядають, ставлять під сумнів, оскаржують, а іноді й повністю переписують.
+
+Цей веб-сайт також є частиною моєї подорожі як веб-розробника.
+
+Створення платформи для мене так само важливе, як і документування самих ідей.
+
+## Що ви знайдете
+
+- концептуальні нотатки
+- незавершені ідеї
+- питання
+- уявні експерименти
+- можливі програмні проекти
+- спостереження
+
+## Приклади тем
+
+- PsySyntax
+- Трансфер Таланту
+- Після шістдесяти
+- Лабораторія пам'яті «Три будинки»
+
+## Якщо якась із цих ідей знаходить відгук у вас або надихає на іншу точку зору, не соромтеся відкривати тему або починати обговорення.
